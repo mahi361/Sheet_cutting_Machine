@@ -18,9 +18,3 @@ electric wheel testing
 </p>
 
 
-Real-Time Sensor Feedback Visualization
-</h3>
-
-<p align="center">
-  <img src="https://github.com/mahi361/serpentine-robot-unmanned-mission-to-moon-and-mars/blob/main/Aruco_marker/cam5.gif" width="60%" />
-</p>
